@@ -1,5 +1,3 @@
-# Auto-reaction
-
 # Self Bot by s1vann.
 -----
 
