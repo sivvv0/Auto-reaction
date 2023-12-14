@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "discord.js-selfbot-v13": "^2.3.8",
-    "fs": "^0.0.1-security"
+    "ms": "2.1.3"
   }
 }
 
