@@ -1,6 +1,7 @@
 ![alt text](https://media.discordapp.net/attachments/943677171384320001/1181309420395839519/IMG_4841.gif)
 
 - [ ] __**Replit banned selfbots**__
+- [ ] you have to have a site for hosting this project like [nexcord](<https://nexcord.com>) or [waifly](<https://waifly.com>)
 
 # Self Bot by s1vann.
 -----
